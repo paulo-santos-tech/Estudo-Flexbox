@@ -57,11 +57,3 @@ Um blog fictício criado para colocar em prática todos os conceitos do Flexbox:
 <p aling="center">
   <img src="https://github.com/paulo-santos-tech/Estudo-Flexbox/blob/main/Screenshot%20-%20Estudo%20CSS%20Flex-box.jpeg" width="600" alt="Homepage do FlexBlog">
 </p>
-
----
-
-## 📁 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
